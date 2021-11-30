@@ -17,3 +17,4 @@ Hello world :)
   1. to reduce budget, code idle will be vs code which is free and open-source
   2. some Adobe licences to designers and graphists to help the front-side developpment
   
+updated
